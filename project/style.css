@@ -291,7 +291,7 @@ color:white;
     font-size: 14px;
   }
 
-  /* Adjust banner spacing */
+
   .mark .col-md-6,
   .apple .col-md-6 {
     padding: 20px !important;
@@ -307,13 +307,12 @@ color:white;
     text-align: center !important;
   }
 
-  /* Adjust card widths */
   .card {
     width: 100% !important;
     margin-bottom: 20px;
   }
 
-  /* Responsive grid columns */
+  
   .col-md-3,
   .col-md-4,
   .col-md-6 {
@@ -321,7 +320,7 @@ color:white;
     max-width: 100%;
   }
 
-  /* Navbar tweaks */
+
   .navbar .nav-icon {
     flex-direction: column;
     padding: 10px;
@@ -332,7 +331,7 @@ color:white;
     margin-bottom: 10px;
   }
 
-  /* Footer */
+
   .footer-widget {
     text-align: center;
   }
@@ -342,3 +341,4 @@ color:white;
     align-items: center;
   }
 }
+
